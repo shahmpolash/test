@@ -5,11 +5,7 @@
     "regular_price": "549",
     "description": "An apple mobile which is nothing like apple",
     "short_description": "Apple mobile with unique features",
-    "categories": [
-      {
-        "id": 9,
-        "name": "Smartphones"
-      }
+    "categories":"Smartphones"
     ],
     "images": [
       {
