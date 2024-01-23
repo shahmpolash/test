@@ -28,6 +28,735 @@
         }
       ]
     },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Laptop"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_9",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Laptop"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_18",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_19",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+     {
+      "name": "iPhone 9",
+      "type": "simple",
+      "regular_price": "549",
+      "description": "An apple mobile which is nothing like apple",
+      "short_description": "Apple mobile with unique features",
+      "categories": [
+        {
+          "id": 9,
+          "name": "Smartphones"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+          "position": 0
+        }
+      ],
+      "stock_quantity": 94,
+      "sku": "iphone_20",
+      "manage_stock": true,
+      "attributes": [
+        {
+          "name": "Brand",
+          "options": ["Apple"]
+        }
+      ]
+    },
+    
     {
       "name": "Samsung Galaxy S21",
       "type": "simple",
