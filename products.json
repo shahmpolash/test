@@ -1,236 +1,450 @@
 [
-    {
-        "name": "iPhone 9",
-        "type": "simple",
-        "regular_price": "549",
-        "description": "An apple mobile which is nothing like apple",
-        "short_description": "Apple mobile with unique features",
-        "categories": [
-            {
-                "id": 9,
-                "name": "Smartphones"
-            }
-        ],
-        "images": [
-            {
-                "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
-                "position": 0
-            }
-        ],
-        "stock_quantity": 94,
-        "sku": "iphone_9",
-        "manage_stock": true,
-        "attributes": [
-            {
-                "name": "Brand",
-                "options": ["Apple"]
-            }
-        ]
-    },
-    {
-        "name": "Samsung Galaxy S21",
-        "type": "simple",
-        "regular_price": "699",
-        "description": "Powerful Android smartphone with advanced features",
-        "short_description": "Advanced features with Android OS",
-        "categories": [
-            {
-                "id": 9,
-                "name": "Smartphones"
-            }
-        ],
-        "images": [
-            {
-                "src": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
-                "position": 0
-            }
-        ],
-        "stock_quantity": 120,
-        "sku": "samsung_galaxy_s21",
-        "manage_stock": true,
-        "attributes": [
-            {
-                "name": "Brand",
-                "options": ["Samsung"]
-            }
-        ]
-    },
-    {
-        "name": "Smartwatch Pro",
-        "type": "simple",
-        "regular_price": "129.99",
-        "description": "Stay connected and track your fitness with this advanced smartwatch",
-        "short_description": "Advanced smartwatch with fitness tracking features",
-        "categories": [
-            {
-                "id": 10,
-                "name": "Wearables"
-            }
-        ],
-        "images": [
-            {
-                "src": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-                "position": 0
-            }
-        ],
-        "stock_quantity": 80,
-        "sku": "smartwatch_pro",
-        "manage_stock": true,
-        "attributes": [
-            {
-                "name": "Brand",
-                "options": ["TechGadgets"]
-            }
-        ]
-    },
-    {
-        "name": "Ultra HD Smart TV",
-        "type": "simple",
-        "regular_price": "899.99",
-        "description": "Immerse yourself in stunning visuals with this high-definition smart TV",
-        "short_description": "High-definition smart TV for immersive viewing",
-        "categories": [
-            {
-                "id": 11,
-                "name": "Electronics"
-            }
-        ],
-        "images": [
-            {
-                "src": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
-                "position": 0
-            }
-        ],
-        "stock_quantity": 60,
-        "sku": "ultra_hd_smart_tv",
-        "manage_stock": true,
-        "attributes": [
-            {
-                "name": "Brand",
-                "options": ["ElectroVision"]
-            }
-        ]
-    },
-    {
-        "name": "Gaming Laptop X",
-        "type": "simple",
-        "regular_price": "1499.99",
-        "description": "Experience ultimate gaming performance with this high-end laptop",
-        "short_description": "High-end gaming laptop for ultimate performance",
-        "categories": [
-            {
-                "id": 12,
-                "name": "Computers"
-            }
-        ],
-        "images": [
-            {
-                "src": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
-                "position": 0
-            }
-        ],
-        "stock_quantity": 40,
-        "sku": "gaming_laptop_x",
-        "manage_stock": true,
-        "attributes": [
-            {
-                "name": "Brand",
-                "options": ["GameMaster"]
-            }
-        ]
-    },
-    {
-        "name": "Bluetooth Earbuds",
-        "type": "simple",
-        "regular_price": "79.99",
-        "description": "Enjoy wireless music with these stylish and comfortable earbuds",
-        "short_description": "Stylish and comfortable Bluetooth earbuds",
-        "categories": [
-            {
-                "id": 13,
-                "name": "Audio"
-            }
-        ],
-        "images": [
-            {
-                "src": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/j/b/jbl-grip-500-wireless-bluetooth-earphones-4.jpg",
-                "position": 0
-            }
-        ],
-        "stock_quantity": 100,
-        "sku": "bluetooth_earbuds",
-        "manage_stock": true,
-        "attributes": [
-            {
-                "name": "Brand",
-                "options": ["AudioBliss"]
-            }
-        ]
-    },
-    {
-        "name": "Digital Camera Pro",
-        "type": "simple",
-        "regular_price": "699.99",
-        "description": "Capture moments in high resolution with this professional camera",
-        "short_description": "Professional camera for high-resolution photography",
-        "categories": [
-            {
-                "id": 14,
-                "name": "Photography"
-            }
-        ],
-        "images": [
-            {
-                "src": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
-                "position": 0
-            }
-        ],
-        "stock_quantity": 50,
-        "sku": "digital_camera_pro",
-        "manage_stock": true,
-        "attributes": [
-            {
-                "name": "Brand",
-                "options": ["PhotoGenius"]
-            }
-        ]
-    },
-    {
-        "name": "Home Security System",
-        "type": "simple",
-        "regular_price": "349.99",
-        "description": "Protect your home with this advanced security system",
-        "short_description": "Advanced security system for home protection",
-        "categories": [
-            {
-                "id": 15,
-                "name": "Security"
-            }
-        ],
-        "images": [
-            {
-                "src": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
-                "position": 0
-            }
-        ],
-        "stock_quantity": 30,
-        "sku": "home_security_system",
-        "manage_stock": true,
-        "attributes": [
-            {
-                "name": "Brand",
-                "options": ["SafeGuard"]
-            }
-        ]
-    },
-    {
-        "name": "Electric Scooter",
-        "type": "simple",
-        "regular_price": "299.99",
-        "description": "Efficient and eco-friendly transportation with this electric scooter",
-        "short_description": "Eco-friendly electric scooter for efficient transportation",
-        "categories": [
-            {
-                "id": 16,
-                "name": "Transportation"
-            }
+  {
+    "name": "iPhone 9",
+    "type": "simple",
+    "regular_price": "549",
+    "description": "An apple mobile which is nothing like apple",
+    "short_description": "Apple mobile with unique features",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Smartphones"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 94,
+    "sku": "iphone_9",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["Apple"]
+      }
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "type": "simple",
+    "regular_price": "699",
+    "description": "Powerful Android smartphone with advanced features",
+    "short_description": "Advanced features with Android OS",
+    "categories": [
+      {
+        "id": 9,
+        "name": "Smartphones"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 120,
+    "sku": "samsung_galaxy_s21",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["Samsung"]
+      }
+    ]
+  },
+  {
+    "name": "Smartwatch Pro",
+    "type": "simple",
+    "regular_price": "129.99",
+    "description": "Stay connected and track your fitness with this advanced smartwatch",
+    "short_description": "Advanced smartwatch with fitness tracking features",
+    "categories": [
+      {
+        "id": 10,
+        "name": "Wearables"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 80,
+    "sku": "smartwatch_pro",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["TechGadgets"]
+      }
+    ]
+  },
+  {
+    "name": "Ultra HD Smart TV",
+    "type": "simple",
+    "regular_price": "899.99",
+    "description": "Immerse yourself in stunning visuals with this high-definition smart TV",
+    "short_description": "High-definition smart TV for immersive viewing",
+    "categories": [
+      {
+        "id": 11,
+        "name": "Electronics"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 60,
+    "sku": "ultra_hd_smart_tv",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["ElectroVision"]
+      }
+    ]
+  },
+  {
+    "name": "Gaming Laptop X",
+    "type": "simple",
+    "regular_price": "1499.99",
+    "description": "Experience ultimate gaming performance with this high-end laptop",
+    "short_description": "High-end gaming laptop for ultimate performance",
+    "categories": [
+      {
+        "id": 12,
+        "name": "Computers"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 40,
+    "sku": "gaming_laptop_x",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["GameMaster"]
+      }
+    ]
+  },
+  {
+    "name": "Bluetooth Earbuds",
+    "type": "simple",
+    "regular_price": "79.99",
+    "description": "Enjoy wireless music with these stylish and comfortable earbuds",
+    "short_description": "Stylish and comfortable wireless earbuds for music lovers",
+    "categories": [
+      {
+        "id": 13,
+        "name": "Audio"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.bdshop.com/pub/media/catalog/product/cache/eaf695a7c2edd83636a0242f7ce59484/j/b/jbl-grip-500-wireless-bluetooth-earphones-4.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 100,
+    "sku": "bluetooth_earbuds",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["AudioBliss"]
+      }
+    ]
+  },
+  {
+    "name": "Digital Camera Pro",
+    "type": "simple",
+    "regular_price": "699.99",
+    "description": "Capture moments in high resolution with this professional camera",
+    "short_description": "High-resolution digital camera for professional photography",
+    "categories": [
+      {
+        "id": 14,
+        "name": "Photography"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 50,
+    "sku": "digital_camera_pro",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["PhotoGenius"]
+      }
+    ]
+  },
+  {
+    "name": "Home Security System",
+    "type": "simple",
+    "regular_price": "349.99",
+    "description": "Protect your home with this advanced security system",
+    "short_description": "Advanced security system for home protection",
+    "categories": [
+      {
+        "id": 15,
+        "name": "Security"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 30,
+    "sku": "home_security_system",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["SafeGuard"]
+      }
+    ]
+  },
+  {
+    "name": "Electric Scooter",
+    "type": "simple",
+    "regular_price": "299.99",
+    "description": "Efficient and eco-friendly transportation with this electric scooter",
+    "short_description": "Eco-friendly electric scooter for efficient transportation",
+    "categories": [
+      {
+        "id": 16,
+        "name": "Transportation"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 70,
+    "sku": "electric_scooter",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["EcoRide"]
+      }
+    ]
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "type": "simple",
+    "regular_price": "39.99",
+    "description": "Charge your devices wirelessly with this sleek charging pad",
+    "short_description": "Sleek wireless charging pad for convenient device charging",
+    "categories": [
+      {
+        "id": 17,
+        "name": "Accessories"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://5.imimg.com/data5/SELLER/Default/2023/11/362241991/AV/SC/AX/10044338/boat-floatpad-350-wireless-charging-pad-15w-wireless-charging-pad-500x500.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 90,
+    "sku": "wireless_charging_pad",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["TechCharge"]
+      }
+    ]
+  },
+  {
+    "name": "Outdoor Adventure Backpack",
+    "type": "simple",
+    "regular_price": "79.99",
+    "description": "Explore the outdoors with this durable and spacious backpack",
+    "short_description": "Durable and spacious backpack for outdoor adventures",
+    "categories": [
+      {
+        "id": 18,
+        "name": "Outdoors"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 60,
+    "sku": "outdoor_adventure_backpack",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["AdventureGear"]
+      }
+    ]
+  },
+  {
+    "name": "Smart Home Hub",
+    "type": "simple",
+    "regular_price": "129.99",
+    "description": "Control your smart home devices with this centralized hub",
+    "short_description": "Centralized hub for smart home device control",
+    "categories": [
+      {
+        "id": 19,
+        "name": "Smart Home"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 40,
+    "sku": "smart_home_hub",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["HomeConnect"]
+      }
+    ]
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "type": "simple",
+    "regular_price": "59.99",
+    "description": "Take your music anywhere with this portable and powerful speaker",
+    "short_description": "Portable and powerful Bluetooth speaker for on-the-go music",
+    "categories": [
+      {
+        "id": 20,
+        "name": "Audio"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://bme.com.bd/public/uploads/products/photos/Aw0WAot4sP5SeQGLx48e5hCIzbcqOK4CZRHMqNOj.jpeg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 80,
+    "sku": "bluetooth_speaker",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["SoundWave"]
+      }
+    ]
+  },
+  {
+    "name": "Coffee Maker Deluxe",
+    "type": "simple",
+    "regular_price": "129.99",
+    "description": "Brew your favorite coffee with this feature-rich coffee maker",
+    "short_description": "Feature-rich coffee maker for brewing your favorite coffee",
+    "categories": [
+      {
+        "id": 21,
+        "name": "Appliances"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 50,
+    "sku": "coffee_maker_deluxe",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["BrewMaster"]
+      }
+    ]
+  },
+  {
+    "name": "Ultra Thin Laptop",
+    "type": "simple",
+    "regular_price": "999.99",
+    "description": "Portable and powerful laptop for productivity on the go",
+    "short_description": "Ultra-thin laptop for on-the-go productivity",
+    "categories": [
+      {
+        "id": 22,
+        "name": "Computers"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 30,
+    "sku": "ultra_thin_laptop",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["TechBook"]
+      }
+    ]
+  },
+  {
+    "name": "Virtual Reality Headset",
+    "type": "simple",
+    "regular_price": "299.99",
+    "description": "Immerse yourself in virtual worlds with this cutting-edge VR headset",
+    "short_description": "Cutting-edge VR headset for immersive virtual experiences",
+    "categories": [
+      {
+        "id": 23,
+        "name": "Electronics"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://static-01.daraz.com.bd/p/ee335998a2831fa0132363ace23ec93b.jpg_500x500.jpg_.webp",
+        "position": 0
+      }
+    ],
+    "stock_quantity": 70,
+    "sku": "virtual_reality_headset",
+    "manage_stock": true,
+    "attributes": [
+      {
+        "name": "Brand",
+        "options": ["VRZone"]
+      }
+    ]
+  },
+]
